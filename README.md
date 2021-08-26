@@ -19,8 +19,6 @@ Technical Aspects
 -----------------
 First I identified the trends, patterns and seasons through the use of descriptive analytics tools in forecasting.
 Secondly I forcasted using regression and moving average. 
-Codes can be gotten 
-[here](https://www.google.com)
 
 Credits
 -------
